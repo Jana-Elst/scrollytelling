@@ -997,7 +997,7 @@ const july17 = () => {
             start: "top -7%",
             end: "bottom 0%",
             pin: $section,
-            markers: true,
+            // markers: true,
         }
     })
 
